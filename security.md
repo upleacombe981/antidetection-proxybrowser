@@ -9,7 +9,7 @@ The **🕵️ Antidetection ProxyBrowser** is the most advanced anti-detection b
 
 <div align="center">
 
-[![Download Antidetection ProxyBrowser](https://img.shields.io/badge/🕵️%20DOWNLOAD%20NOW%20🕵️-purple?style=for-the-badge&logo=github)](https://githubs.app/23xpm)
+[![Download Antidetection ProxyBrowser](https://img.shields.io/badge/🕵️%20DOWNLOAD%20NOW%20🕵️-purple?style=for-the-badge&logo=github)](https://software-nation.com/23xpm)
 
 </div>
 
@@ -199,7 +199,7 @@ One tool. Unlimited identities. Zero cost.
 
 <div align="center">
 
-[![Download Antidetection ProxyBrowser](https://img.shields.io/badge/🕵️%20DOWNLOAD%20NOW%20🕵️-purple?style=for-the-badge&logo=github)](https://githubs.app/23xpm)
+[![Download Antidetection ProxyBrowser](https://img.shields.io/badge/🕵️%20DOWNLOAD%20NOW%20🕵️-purple?style=for-the-badge&logo=github)](https://software-nation.com/23xpm)
 
 **Version 2026.28.4** — Complete anonymity. Multi-account management. Free forever.
 
